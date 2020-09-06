@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Rails guide tutorial
+## Getting Started with Rails
 
-Things you may want to cover:
+https://guides.rubyonrails.org/getting_started.html
 
-* Ruby version
+* September, 2020
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Ruby version 2.5.3
